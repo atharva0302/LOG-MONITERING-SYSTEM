@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 22 13:31:10 2021
+Created on Wed Sep 22 13:31:10 2022
 
-@author: somnath
+@author: atharva helaskar
 """
 import openpyxl as o
 import mysql.connector as c
